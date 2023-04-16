@@ -1,4 +1,4 @@
-package net.javaguides.springboot.dto;
+package com.sudhanshu.springboot.dto;
 
 public class UserRegistrationDto {
 	private String firstName;
